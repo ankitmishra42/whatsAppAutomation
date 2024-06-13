@@ -4,7 +4,7 @@ import time
 def whats():
     # Define the message and contacts
     message = "Hello, this is a test message from the automation."
-    contacts = ["+91888848646", "+918303745775"]  # Replace with the actual phone numbers including the country code
+    contacts = ["+918888795246", "+916485745775"]  # Replace with the actual phone numbers including the country code
 
     # Function to send message
     def send_whatsapp_message(contact, message):

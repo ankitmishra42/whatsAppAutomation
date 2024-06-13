@@ -1,0 +1,20 @@
+Date: 13/6/2024
+Time: 7:5
+Phone Number: +91888848646
+Message: Hello, this is a test message from the automation.
+--------------------
+Date: 13/6/2024
+Time: 7:7
+Phone Number: +918303745775
+Message: Hello, this is a test message from the automation.
+--------------------
+Date: 13/6/2024
+Time: 7:22
+Phone Number: +91888848646
+Message: Hello, this is a test message from the automation.
+--------------------
+Date: 13/6/2024
+Time: 7:24
+Phone Number: +918303745775
+Message: Hello, this is a test message from the automation.
+--------------------
